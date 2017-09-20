@@ -2,7 +2,7 @@
 [![GitHub release](https://img.shields.io/github/release/rebzzel/Universal-D3D11-Hook.svg?style=flat-square)](https://github.com/Rebzzel/Universal-D3D11-Hook/releases)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/Rebzzel/Universal-D3D11-Hook/master/LICENSE)
 
-**You will need ![DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx%3Fid%3D6812)**
+**You will need [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx%3Fid%3D6812)**
 
 ## Methoths
 `GetDevice() — return ID3D11Device`
